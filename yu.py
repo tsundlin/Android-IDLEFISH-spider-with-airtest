@@ -1,4 +1,7 @@
-__author__ = "linnn"
+__author__ = "tsundlin"
+
+# Using Python 3.7!!!!!!!!!!!!!
+# There is bug for Python 3.9
 
 import openpyxl
 import sys
